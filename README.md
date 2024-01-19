@@ -1,0 +1,6 @@
+- V訂正
+- Vlogger:第三方工具:morgan
+- git
+- tsoa:研究下在EXPRESS REPO裡套，會出現SWAGGER的文件
+--可能會卡在ts->js的過程中 可能要Build
+- (tsoa加進專案)
